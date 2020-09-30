@@ -4,7 +4,7 @@ function Client2(cname, cbalance) {
     this.cname = cname;
     this.cbalance = cbalance;
 }
-
+ 
 
 Client2.prototype.cmembership = function() {
     let cname;
